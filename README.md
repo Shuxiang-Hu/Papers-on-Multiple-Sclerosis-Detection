@@ -20,7 +20,7 @@
 
   + Medical image processing pipeline: denoising using Gaussain, average and Wiener filter and resolution enhancement with Discrete Wavelet Transform
 
-  <img src="/Users/hushuxiang/Library/Application Support/typora-user-images/image-20211116224435667.png" alt="image-20211116224435667" style="zoom: 33%;" />
+  <img src="img/image-20211116224435667.png" alt="image-20211116224435667" style="zoom: 33%;" />
 
 * **FuNP (fusion of neuroimaging preprocessing) pipelines: a fully automated preprocessing software for functional magnetic resonance imaging** ([online](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6378808/))
 
@@ -30,7 +30,7 @@
 
   - Two parts: a generator and a discriminator, which play following two-player minimax game with value function V (G, D):
 
-    ![image-20211116201703303](/Users/hushuxiang/Documents/FYP/paper/img/image-20211116201703303.png)
+    ![image-20211116201703303](/img/image-20211116201703303.png)
 
 * Automatic Diagnosis of COVID-19 from CT Images using CycleGAN and Transfer Learning.
 
